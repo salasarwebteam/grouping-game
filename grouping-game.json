@@ -1,0 +1,769 @@
+{
+    "title": "Grouping Games",
+    "anchorID": "first_app",
+    "points": 250,
+    "questions": [
+        {
+            "id": 1,
+            "title": "Question 1",
+            "instructions": "Four students—Ashley (A), Bob (B), Charlie (C), and Diana (D)—are asked to form two groups in class. There must be at least one student in either group, and they are also given a number of rules to follow:",
+            "subInstructions": "Please fill out the correct diagram that will represent Rule #1. For the incorrect diagram, leave it blank.",
+            "rules": [
+                "Rule #1: Ashley and Diana are in the same group"
+            ],
+            "explanation": "When you diagram fixed relationships, make sure that you always use a box/brackets to signify that. Meanwhile, conditional relationships are represented by an arrow between two variables.",
+            "time": 0,
+            "lives": 3,
+            "manipulatives": [
+                {
+                    "text": "A",
+                    "x": 6,
+                    "y": 360
+                },
+                {
+                    "text": "B",
+                    "x": 235.3,
+                    "y": 360
+                },
+                {
+                    "text": "C",
+                    "x": 464.6,
+                    "y": 360
+                },
+                {
+                    "text": "D",
+                    "x": 694,
+                    "y": 360
+                }
+            ],
+            "dropZones": [
+                {
+                    "text": "A",
+                    "description": "If this is the correct diagram, please drag and drop the correct name into this spot.",
+                    "hint": "Which names does Rule #1 mention? List those names’ initials from Left to Right.",
+                    "explanation": "Correct! A can go into this spot! You can technically list A and D in any order for Rule #1, but for this exercise A will come first.",
+                    "strikethrough": false,
+                    "prefilled": false,
+                    "x": 235.3,
+                    "y": 740
+                },
+                {
+                    "text": "D",
+                    "description": "If this is the correct diagram, please drag and drop the correct name into this spot.",
+                    "hint": "Which names does Rule #1 mention? List those names’ initials from Left to Right.",
+                    "explanation": "Correct! D can go into this spot! You can technically list A and D in any order for Rule #1, but for this exercise D will come second.",
+                    "strikethrough": false,
+                    "prefilled": false,
+                    "x": 464.6,
+                    "y": 740
+                }
+            ],
+            "diagrams": [
+                {
+                    "id": "GroupingDiagram1",
+                    "x": 110,
+                    "y": 700
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Question 2",
+            "instructions": "Four students—Ashley (A), Bob (B), Charlie (C), and Diana (D)—are asked to form two groups in class. There must be at least one student in either group, and they are also given a number of rules to follow:",
+            "subInstructions": "Please fill out the Game Board in accordance with Rule #1. Some places have been filled, some may be left blank, and the diagram from Question 1 has been provided.",
+            "rules": [
+                "Rule #1: Ashley and Diana are in the same group"
+            ],
+            "explanation": "Congratulations on filling out the Game Board! Some questions may have traps in the form of spaces which do not have an answer. Be careful to read every part of a question prompt, not just the rules.",
+            "time": 90,
+            "lives": 3,
+            "manipulatives": [
+                {
+                    "text": "A",
+                    "x": 6,
+                    "y": 260
+                },
+                {
+                    "text": "B",
+                    "x": 235.3,
+                    "y": 260,
+                    "placed": true
+                },
+                {
+                    "text": "C",
+                    "x": 464.6,
+                    "y": 260,
+                    "placed": true
+                },
+                {
+                    "text": "D",
+                    "x": 694,
+                    "y": 260
+                }
+            ],
+            "dropZones": [
+                {
+                    "text": "B",
+                    "description": "",
+                    "hint": "",
+                    "explanation": "",
+                    "strikethrough": false,
+                    "prefilled": true,
+                    "x": -17,
+                    "y": 710.6
+                },
+                {
+                    "text": null,
+                    "texts": [
+                        "A",
+                        "D"
+                    ],
+                    "description": "Drag and drop the correct name into this slot.",
+                    "hint": "",
+                    "explanation": "Correct! A and D must go into Group 1 because it is the only group, for this question, with enough slots to allow for Rule #1.",
+                    "strikethrough": false,
+                    "prefilled": false,
+                    "x": 166.5,
+                    "y": 710.6
+                },
+                {
+                    "text": null,
+                    "texts": [
+                        "A",
+                        "D"
+                    ],
+                    "description": "Drag and drop the correct name into this slot.",
+                    "hint": "",
+                    "explanation": "Correct! A and D must go into Group 1 because it is the only group, for this question, with enough slots to allow for Rule #1.",
+                    "strikethrough": false,
+                    "prefilled": false,
+                    "x": 350,
+                    "y": 710.6
+                },
+                {
+                    "text": "C",
+                    "description": "",
+                    "hint": "",
+                    "explanation": "",
+                    "strikethrough": false,
+                    "prefilled": true,
+                    "x": 533.5,
+                    "y": 710.6
+                },
+                {
+                    "text": "",
+                    "description": "Drag and drop the correct name into this slot.",
+                    "hint": "",
+                    "explanation": "How many slots are needed to fulfill Rule #1? Can A or D go by itself? For this question, this slot should be left blank.",
+                    "strikethrough": false,
+                    "prefilled": false,
+                    "x": 717,
+                    "y": 710.6
+                }
+            ],
+            "diagrams": [
+                {
+                    "id": "GroupingDiagram2",
+                    "x": 3,
+                    "y": 410
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Question 3",
+            "instructions": "Four students—Ashley (A), Bob (B), Charlie (C), and Diana (D)—are asked to form two groups in class. There must be at least one student in either group, and they are also given a number of rules to follow:",
+            "subInstructions": "Please fill out the correct diagram that will represent Rule #2. For the incorrect diagram, leave it blank.",
+            "rules": [
+                "Rule #1: Ashley and Diana are in the same group",
+                "Rule #2: If Charlie is in Group 1 then Ashley is in Group 2"
+            ],
+            "explanation": "Despite both diagrams representing conditional relationships, only one shows the proper designations for Groups 1 and 2, and thus only the top diagram accurately reflects Rule #2.",
+            "time": 90,
+            "lives": 3,
+            "manipulatives": [
+                {
+                    "text": "A",
+                    "x": 6,
+                    "y": 260
+                },
+                {
+                    "text": "B",
+                    "x": 235.3,
+                    "y": 260
+                },
+                {
+                    "text": "C",
+                    "x": 464.6,
+                    "y": 260
+                },
+                {
+                    "text": "D",
+                    "x": 694,
+                    "y": 260
+                }
+            ],
+            "dropZones": [
+                {
+                    "text": "C",
+                    "subtext": "1",
+                    "description": "",
+                    "hint": "",
+                    "explanation": "",
+                    "strikethrough": false,
+                    "prefilled": false,
+                    "prefilledSubtext": true,
+                    "x": 95,
+                    "y": 510
+                },
+                {
+                    "text": "A",
+                    "subtext": "2",
+                    "description": "",
+                    "hint": "",
+                    "explanation": "",
+                    "strikethrough": false,
+                    "prefilled": false,
+                    "prefilledSubtext": true,
+                    "x": 605,
+                    "y": 510
+                },
+                {
+                    "text": "",
+                    "description": "",
+                    "hint": "",
+                    "explanation": "",
+                    "strikethrough": false,
+                    "prefilled": false,
+                    "x": 95,
+                    "y": 877
+                },
+                {
+                    "text": "",
+                    "description": "",
+                    "hint": "",
+                    "explanation": "",
+                    "strikethrough": false,
+                    "prefilled": false,
+                    "x": 605,
+                    "y": 877
+                }
+            ],
+            "diagrams": [
+                {
+                    "id": "GroupingDiagram3",
+                    "x": 95,
+                    "y": 543
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Question 4",
+            "instructions": "Four students—Ashley (A), Bob (B), Charlie (C), and Diana (D)—are asked to form two groups in class. There must be at least one student in either group, and they are also given a number of rules to follow:",
+            "subInstructions": "For this question, assume that each group has two students and that Charlie has been placed in Group 1. Please fill out the Game Board in accordance with both rules.",
+            "rules": [
+                "Rule #1: Ashley and Diana are in the same group",
+                "Rule #2: If Charlie is in Group 1 then Ashley is in Group 2"
+            ],
+            "explanation": "Congratulations on filling out the Game Board!",
+            "time": 90,
+            "lives": 3,
+            "manipulatives": [
+                {
+                    "text": "A",
+                    "x": 6,
+                    "y": 290
+                },
+                {
+                    "text": "B",
+                    "x": 235.3,
+                    "y": 290
+                },
+                {
+                    "text": "C",
+                    "x": 464.6,
+                    "y": 290,
+                    "placed": true
+                },
+                {
+                    "text": "D",
+                    "x": 694,
+                    "y": 290
+                }
+            ],
+            "dropZones": [
+                {
+                    "text": "C",
+                    "subtext": null,
+                    "description": "",
+                    "hint": "",
+                    "explanation": "",
+                    "strikethrough": false,
+                    "prefilled": true,
+                    "x": 6,
+                    "y": 709.55
+                },
+                {
+                    "text": "B",
+                    "subtext": null,
+                    "description": "Drag and drop the correct name into this slot.",
+                    "hint": "Can A or D go by itself? Which person can be paired with Charlie if two people have to go in Group 2?",
+                    "explanation": "Correct! Bob is the only person who can go with Charlie in Group 2 because of Rule #1 and Rule #2.",
+                    "strikethrough": false,
+                    "prefilled": false,
+                    "x": 220,
+                    "y": 709.55
+                },
+                {
+                    "text": null,
+                    "texts": [
+                        "A",
+                        "D"
+                    ],
+                    "subtext": null,
+                    "description": "Drag and drop the correct name into this slot.",
+                    "hint": "Can Ashley and Diana be split up? While Ashley and Diana can be listed in any order, please list Ashley first and David second.",
+                    "explanation": "Correct! Ashley must go into Group 2 because of Rule #2.",
+                    "strikethrough": false,
+                    "prefilled": false,
+                    "x": 480,
+                    "y": 709.55
+                },
+                {
+                    "text": null,
+                    "texts": [
+                        "A",
+                        "D"
+                    ],
+                    "subtext": null,
+                    "description": "Drag and drop the correct name into this slot.",
+                    "hint": "Can Ashley and Diana be split up? While Ashley and Diana can be listed in any order, please list Ashley first and David second.",
+                    "explanation": "Correct! Since Ashley is in this group due to Rule #2, Diana must also be in this group because of Rule #1.",
+                    "strikethrough": false,
+                    "prefilled": false,
+                    "x": 694,
+                    "y": 709.55
+                }
+            ],
+            "diagrams": [
+                {
+                    "id": "GroupingDiagram4",
+                    "x": 6,
+                    "y": 410
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Question 5",
+            "instructions": "Four students—Ashley (A), Bob (B), Charlie (C), and Diana (D)—are asked to form two groups in class. There must be at least one student in either group, and they are also given a number of rules to follow:",
+            "subInstructions": "Please fill out the correct diagram that will represent Rule #3. For the incorrect diagram, leave it blank.",
+            "rules": [
+                "Rule #1: Ashley and Diana are in the same group",
+                "Rule #2: If Charlie is in Group 1 then Ashley is in Group 2",
+                "Rule #3: Bob and Diana cannot be in the same group"
+            ],
+            "explanation": "Be sure to remind yourself what constitutes a conditional relationship versus a fixed relationship, and then diagram accordingly.",
+            "time": 90,
+            "lives": 3,
+            "manipulatives": [
+                {
+                    "text": "A",
+                    "x": 6,
+                    "y": 290
+                },
+                {
+                    "text": "B",
+                    "x": 235.3,
+                    "y": 290
+                },
+                {
+                    "text": "C",
+                    "x": 464.6,
+                    "y": 290
+                },
+                {
+                    "text": "D",
+                    "x": 694,
+                    "y": 290
+                }
+            ],
+            "dropZones": [
+                {
+                    "text": "",
+                    "description": "If this is the correct diagram, please drag and drop the correct name into this spot.",
+                    "hint": "",
+                    "explanation": "This diagram should be left blank! This diagram shows a conditional relationship, while Rule #3 is describing a fixed relationship.",
+                    "strikethrough": true,
+                    "prefilled": false,
+                    "x": 95,
+                    "y": 512
+                },
+                {
+                    "text": "",
+                    "description": "If this is the correct diagram, please drag and drop the correct name into this spot.",
+                    "hint": "",
+                    "explanation": "This diagram should be left blank! This diagram shows a conditional relationship, while Rule #3 is describing a fixed relationship.",
+                    "strikethrough": true,
+                    "prefilled": false,
+                    "x": 605,
+                    "y": 512
+                },
+                {
+                    "text": "B",
+                    "description": "If this is the correct diagram, please drag and drop the correct name into this spot.",
+                    "hint": "Which two names does Rule #3 mention? List them from left to right.",
+                    "explanation": "Correct! Bob can go into this slot! While Bob and Diana can go in any order within the diagram to represent Rule #3, for this diagram we will list it in alphabetical order.",
+                    "strikethrough": false,
+                    "prefilled": false,
+                    "x": 235.3,
+                    "y": 895
+                },
+                {
+                    "text": "D",
+                    "description": "If this is the correct diagram, please drag and drop the correct name into this spot.",
+                    "hint": "Which two names does Rule #3 mention? List them from left to right.",
+                    "explanation": "Correct! Bob can go into this slot! While Bob and Diana can go in any order within the diagram to represent Rule #3, for this diagram we will list it in alphabetical order.",
+                    "strikethrough": false,
+                    "prefilled": false,
+                    "x": 464.6,
+                    "y": 895
+                }
+            ],
+            "diagrams": [
+                {
+                    "id": "GroupingDiagram5",
+                    "x": 95,
+                    "y": 545
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Question 6",
+            "instructions": "Four students—Ashley (A), Bob (B), Charlie (C), and Diana (D)—are asked to form two groups in class. There must be at least one student in either group, and they are also given a number of rules to follow:",
+            "subInstructions": "For this question, Bob has been placed in Group 2. Please fill out the Game Board in accordance with all three rules. Some spaces may be left blank.",
+            "rules": [
+                "Rule #1: Ashley and Diana are in the same group",
+                "Rule #2: If Charlie is in Group 1 then Ashley is in Group 2",
+                "Rule #3: Bob and Diana cannot be in the same group"
+            ],
+            "explanation": "Congratulations on completing the Game Board! Some questions may try to trip you up by having spaces which are designed to be left blank. Make sure to read the question prompts carefully!",
+            "time": 90,
+            "lives": 3,
+            "manipulatives": [
+                {
+                    "text": "A",
+                    "x": 6,
+                    "y": 320
+                },
+                {
+                    "text": "B",
+                    "x": 235.3,
+                    "y": 320,
+                    "placed": true
+                },
+                {
+                    "text": "C",
+                    "x": 464.6,
+                    "y": 320
+                },
+                {
+                    "text": "D",
+                    "x": 694,
+                    "y": 320
+                }
+            ],
+            "dropZones": [
+                {
+                    "text": null,
+                    "texts": [
+                        "A",
+                        "D"
+                    ],
+                    "subtext": null,
+                    "description": "",
+                    "hint": "",
+                    "explanation": "",
+                    "strikethrough": false,
+                    "prefilled": false,
+                    "x": -26.5,
+                    "y": 686
+                },
+                {
+                    "text": null,
+                    "texts": [
+                        "A",
+                        "D"
+                    ],
+                    "subtext": null,
+                    "description": "",
+                    "hint": "",
+                    "explanation": "",
+                    "strikethrough": false,
+                    "prefilled": false,
+                    "x": 120.5,
+                    "y": 686
+                },
+                {
+                    "text": null,
+                    "texts": [
+                        "A",
+                        "D"
+                    ],
+                    "subtext": null,
+                    "description": "",
+                    "hint": "",
+                    "explanation": "",
+                    "strikethrough": false,
+                    "prefilled": false,
+                    "x": 267.5,
+                    "y": 686
+                },
+                {
+                    "text": "B",
+                    "subtext": null,
+                    "description": "",
+                    "hint": "",
+                    "explanation": "",
+                    "strikethrough": false,
+                    "prefilled": true,
+                    "x": 432.5,
+                    "y": 686
+                },
+                {
+                    "text": "C",
+                    "subtext": null,
+                    "description": "",
+                    "hint": "",
+                    "explanation": "",
+                    "strikethrough": false,
+                    "prefilled": false,
+                    "x": 579.5,
+                    "y": 686
+                },
+                {
+                    "text": "C",
+                    "subtext": null,
+                    "description": "",
+                    "hint": "",
+                    "explanation": "",
+                    "strikethrough": false,
+                    "prefilled": false,
+                    "x": 726.5,
+                    "y": 686
+                }
+            ],
+            "diagrams": [
+                {
+                    "id": "GroupingDiagram6",
+                    "x": 6,
+                    "y": 450
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "title": "Question 7",
+            "instructions": "Four students—Ashley (A), Bob (B), Charlie (C), and Diana (D)—are asked to form two groups in class. There must be at least one student in either group, and they are also given a number of rules to follow:",
+            "subInstructions": "For this question, only one person can be in Group 1 and three people can be in Group 2. Please fill out the Game Board accordingly.",
+            "rules": [
+                "Rule #1: Ashley and Diana are in the same group",
+                "Rule #2: If Charlie is in Group 1 then Ashley is in Group 2",
+                "Rule #3: Bob and Diana cannot be in the same group"
+            ],
+            "explanation": "Congratulations on solving the Game Board! Sometimes you will encounter questions where a slot will have multiple correct answers, so be careful how you organize your Game Board.",
+            "time": 90,
+            "lives": 3,
+            "manipulatives": [
+                {
+                    "text": "A",
+                    "x": 6,
+                    "y": 290
+                },
+                {
+                    "text": "B",
+                    "x": 235.3,
+                    "y": 290
+                },
+                {
+                    "text": "C",
+                    "x": 464.6,
+                    "y": 290
+                },
+                {
+                    "text": "D",
+                    "x": 694,
+                    "y": 290
+                }
+            ],
+            "dropZones": [
+                {
+                    "text": "B",
+                    "subtext": null,
+                    "description": "Drag and drop the correct name into this slot, if this slot can be filled.",
+                    "hint": "Examine the Rules carefully. Only one student is able to go into Group 1 on their own.",
+                    "explanation": "Correct! Bob is the only student who can be alone in Group 1. Charlie could join Group 1 if Bob was in there, but the question is designating only one student to Group 1.",
+                    "strikethrough": false,
+                    "prefilled": false,
+                    "x": 120.5,
+                    "y": 679.55
+                },
+                {
+                    "text": null,
+                    "texts": [
+                        "A",
+                        "D",
+                        "C"
+                    ],
+                    "subtext": null,
+                    "description": "Drag and drop the correct name into this slot, if this slot can be filled.",
+                    "hint": "Can Bob be with Diana? Is Diana connected to another student? If only one student can go into Group 1, can that student be Charlie?",
+                    "explanation": "Correct! Ashley, Diana, and Charlie are the students who can go into Group 2 for this question’s scenario. Rule #2 only concerns if Charlie is in Group 1, nothing prevents Charlie from being in Group 2 with Ashely.",
+                    "strikethrough": false,
+                    "prefilled": false,
+                    "x": 432.5,
+                    "y": 679.55
+                },
+                {
+                    "text": null,
+                    "texts": [
+                        "A",
+                        "D",
+                        "C"
+                    ],
+                    "subtext": null,
+                    "description": "Drag and drop the correct name into this slot, if this slot can be filled.",
+                    "hint": "Can Bob be with Diana? Is Diana connected to another student? If only one student can go into Group 1, can that student be Charlie?",
+                    "explanation": "Correct! Ashley, Diana, and Charlie are the students who can go into Group 2 for this question’s scenario. Rule #2 only concerns if Charlie is in Group 1, nothing prevents Charlie from being in Group 2 with Ashely.",
+                    "strikethrough": false,
+                    "prefilled": false,
+                    "x": 579.5,
+                    "y": 679.55
+                },
+                {
+                    "text": null,
+                    "texts": [
+                        "A",
+                        "D",
+                        "C"
+                    ],
+                    "subtext": null,
+                    "description": "Drag and drop the correct name into this slot, if this slot can be filled.",
+                    "hint": "Can Bob be with Diana? Is Diana connected to another student? If only one student can go into Group 1, can that student be Charlie?",
+                    "explanation": "Correct! Ashley, Diana, and Charlie are the students who can go into Group 2 for this question’s scenario. Rule #2 only concerns if Charlie is in Group 1, nothing prevents Charlie from being in Group 2 with Ashely.",
+                    "strikethrough": false,
+                    "prefilled": false,
+                    "x": 726.5,
+                    "y": 679.55
+                }
+            ],
+            "diagrams": [
+                {
+                    "id": "GroupingDiagram7",
+                    "x": 63,
+                    "y": 380
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "title": "Question 8",
+            "instructions": "Four students—Ashley (A), Bob (B), Charlie (C), and Diana (D)—are asked to form two groups in class. There must be at least one student in either group, and they are also given a number of rules to follow:",
+            "subInstructions": "For this question, two students are in each group and Diana is in Group 1. Please fill out the Game Board accordingly.",
+            "rules": [
+                "Rule #1: Ashley and Diana are in the same group",
+                "Rule #2: If Charlie is in Group 1 then Ashley is in Group 2",
+                "Rule #3: Bob and Diana cannot be in the same group"
+            ],
+            "explanation": "Congratulations on finishing the Game Board! You have now successfully completed this entire exercise on Standard Grouping games.",
+            "time": 90,
+            "lives": 3,
+            "manipulatives": [
+                {
+                    "text": "A",
+                    "x": 6,
+                    "y": 290
+                },
+                {
+                    "text": "B",
+                    "x": 235.3,
+                    "y": 290
+                },
+                {
+                    "text": "C",
+                    "x": 464.6,
+                    "y": 290
+                },
+                {
+                    "text": "D",
+                    "x": 694,
+                    "y": 290,
+                    "placed": true
+                }
+            ],
+            "dropZones": [
+                {
+                    "text": "D",
+                    "subtext": null,
+                    "description": "",
+                    "hint": "",
+                    "explanation": "",
+                    "strikethrough": false,
+                    "prefilled": true,
+                    "x": 6,
+                    "y": 679.55
+                },
+                {
+                    "text": "A",
+                    "subtext": null,
+                    "description": "Drag and drop the correct name into this slot.",
+                    "hint": "Can Diana and Ashley be separate? What names cannot be in Group 1 with Diana?",
+                    "explanation": "Correct! Ashely is the only student that can go into Group 1 with Ashley due to Rule #1 and the fact the question prompt says there are two students per group.",
+                    "strikethrough": false,
+                    "prefilled": false,
+                    "x": 220,
+                    "y": 679.55
+                },
+                {
+                    "text": null,
+                    "texts": [
+                        "B",
+                        "C"
+                    ],
+                    "subtext": null,
+                    "description": "Drag and drop the correct name into this slot.",
+                    "hint": "Can Diana and Ashley be separate? What names cannot be in Group 1 with Diana?",
+                    "explanation": "Correct! Bob and Charlie must go into Group 2, so either name can be listed here.",
+                    "strikethrough": false,
+                    "prefilled": false,
+                    "x": 480,
+                    "y": 679.55
+                },
+                {
+                    "text": null,
+                    "texts": [
+                        "B",
+                        "C"
+                    ],
+                    "subtext": null,
+                    "description": "Drag and drop the correct name into this slot.",
+                    "hint": "Can Diana and Ashley be separate? What names cannot be in Group 1 with Diana?",
+                    "explanation": "Correct! Bob and Charlie must go into Group 2, so either name can be listed here.",
+                    "strikethrough": false,
+                    "prefilled": false,
+                    "x": 694,
+                    "y": 679.55
+                }
+            ],
+            "diagrams": [
+                {
+                    "id": "GroupingDiagram8",
+                    "x": 6,
+                    "y": 380
+                }
+            ]
+        }
+    ]
+}
